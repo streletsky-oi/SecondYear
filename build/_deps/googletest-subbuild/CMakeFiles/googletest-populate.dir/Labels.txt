@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/home/s23380343@unn.global/homework/3 semest/SecondYear/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
