@@ -71,6 +71,15 @@ Set Set::operator*(const Set& tmp) {
     result._bitfield = _bitfield & tmp._bitfield;
     return result;
 }
+Set Set::operator-(const Set& tmp) {
+    // Создаем результатирующее множество, максимальная мощность - наибольшая из двух
+    Set result(max(tmp._maxPower, _maxPower));
+    
+    // Используем побитовую операцию AND с побитовой операцией NOT для исключения
+    result._bitfield = _bitfield & ~tmp._bitfield;
+    
+    return result; // Возвращаем новое множество
+}
 
 Set Set::operator~() {
     Set result(_maxPower);
